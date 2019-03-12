@@ -1,0 +1,7 @@
+Jenkins
+Source Repository- Git/SVN/Perforce
+IDE- InteliJ
+Unit test- Junit
+Maven- Build
+TOmcat/Weblogic/WebSphere
+
